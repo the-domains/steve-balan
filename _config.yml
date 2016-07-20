@@ -1,4 +1,3 @@
-layout_spectrum: 0.0748804328031838
 typography_spectrum: 0.03008133894763887
 color:
   brandStrength: 0.2741815021727234
@@ -11,4 +10,11 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: Appmonkeys Blog
+layout_spectrum: 0.0748804328031838
+author:
+  name: Steve Balan
+  email: Mail@Steve-Balan.com
+  url: www.Steve-Balan.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd19254a-36db-434c-af7d-a8fae6e64d80.png
+name: Steve Balan Blog
